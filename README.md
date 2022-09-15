@@ -28,6 +28,8 @@ npm start
 
 Now you are ready to play. Have fun!
 
+In case you run into any problems, do not hesitate to open an issue.
+
 ## License
 
 All rights reserved.
